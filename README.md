@@ -40,3 +40,13 @@
 
 _“Secure everything you build. Test everything y
 ou secure.”_
+
+**To preview the CV**
+COPY AND PASTE THE BELOW COMMAND ON TERMINAL 
+
+<pre><code>
+git clone 
+cd 
+python CV.py
+</code></pre>
+
