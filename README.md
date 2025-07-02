@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Amruth S
+#  Hello, I'm Amruth S
 
 **Cybersecurity Researcher | Systems Security Specialist | Ethical Hacker**
 
-🔒 Passionate about protecting digital infrastructure and industrial systems using cutting-edge cybersecurity techniques.  
-🚀 Exploring AI-driven threat detection and automation for modern SOC operations.
+-Passionate about protecting digital infrastructure and industrial systems using cutting-edge cybersecurity techniques.  
+-Exploring AI-driven threat detection and automation for modern SOC operations.
 
 ---
 
