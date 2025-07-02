@@ -45,8 +45,8 @@ ou secure.”_
 COPY AND PASTE THE BELOW COMMAND ON TERMINAL 
 
 <pre><code>
-git clone 
-cd 
-python CV.py
+git clone https://github.com/moon0deva/CV.git
+cd CV
+python cv.py
 </code></pre>
 
